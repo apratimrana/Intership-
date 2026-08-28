@@ -76,9 +76,9 @@ To deal with the imbalance in failure types, SMOTENC is used for synthetic overs
 ### Contact
 For questions or suggestions, please reach out to:
 
-**Name**: Jaysri Saravanan
+**Name**: Apratim Rana
 
-**Email**: saravananjaysri@gmail.com
+**Email**: apratimrana234@gmail.com
 
 
 
