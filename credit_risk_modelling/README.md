@@ -131,4 +131,6 @@ To run this project,
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
+## Author
+apratimrana
 ---
